@@ -4,7 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
+    siteTitleAlt: `Cobaduluu - Penasaran website apa ini? Coba aja dulu`,
   },
   plugins: [
     {
@@ -20,9 +20,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `Coba duluu - Penasaran website apa ini? Coba aja dulu`,
+        short_name: `Cobaduluu`,
+        description: `Coba aja duluu`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
